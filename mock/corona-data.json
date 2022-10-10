@@ -1,0 +1,395 @@
+{
+  "data": {
+    "SH": {
+      "id": 1,
+      "name": "Schleswig-Holstein",
+      "population": 2922005,
+      "cases": 1036044,
+      "deaths": 2915,
+      "casesPerWeek": 15105,
+      "deathsPerWeek": 4,
+      "recovered": 993094,
+      "abbreviation": "SH",
+      "weekIncidence": 516.9395671807544,
+      "casesPer100k": 35456.61283947153,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 400
+      },
+      "hospitalization": {
+        "cases7Days": 352,
+        "incidence7Days": 12.05,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "HH": {
+      "id": 2,
+      "name": "Hamburg",
+      "population": 1853935,
+      "cases": 735609,
+      "deaths": 3072,
+      "casesPerWeek": 4561,
+      "deathsPerWeek": 3,
+      "recovered": 722777,
+      "abbreviation": "HH",
+      "weekIncidence": 246.0172551896372,
+      "casesPer100k": 39678.25193439899,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 363
+      },
+      "hospitalization": {
+        "cases7Days": 57,
+        "incidence7Days": 3.07,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "NI": {
+      "id": 3,
+      "name": "Niedersachsen",
+      "population": 8027031,
+      "cases": 3288568,
+      "deaths": 10890,
+      "casesPerWeek": 53383,
+      "deathsPerWeek": 4,
+      "recovered": 3162191,
+      "abbreviation": "NI",
+      "weekIncidence": 665.040411579325,
+      "casesPer100k": 40968.67197846875,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 921
+      },
+      "hospitalization": {
+        "cases7Days": 440,
+        "incidence7Days": 5.48,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "HB": {
+      "id": 4,
+      "name": "Bremen",
+      "population": 676463,
+      "cases": 265082,
+      "deaths": 844,
+      "casesPerWeek": 4273,
+      "deathsPerWeek": 0,
+      "recovered": 255984,
+      "abbreviation": "HB",
+      "weekIncidence": 631.6679552318457,
+      "casesPer100k": 39186.474352625344,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 20
+      },
+      "hospitalization": {
+        "cases7Days": 37,
+        "incidence7Days": 5.47,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "NW": {
+      "id": 5,
+      "name": "Nordrhein-Westfalen",
+      "population": 17924591,
+      "cases": 6927179,
+      "deaths": 27608,
+      "casesPerWeek": 85622,
+      "deathsPerWeek": 15,
+      "recovered": 6706569,
+      "abbreviation": "NW",
+      "weekIncidence": 477.67896070822485,
+      "casesPer100k": 38646.23187218051,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 3421
+      },
+      "hospitalization": {
+        "cases7Days": 1671,
+        "incidence7Days": 9.32,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "HE": {
+      "id": 6,
+      "name": "Hessen",
+      "population": 6295017,
+      "cases": 2575573,
+      "deaths": 11137,
+      "casesPerWeek": 47909,
+      "deathsPerWeek": 10,
+      "recovered": 2437906,
+      "abbreviation": "HE",
+      "weekIncidence": 761.0622814839103,
+      "casesPer100k": 40914.47251055875,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 740
+      },
+      "hospitalization": {
+        "cases7Days": 524,
+        "incidence7Days": 8.32,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "RP": {
+      "id": 7,
+      "name": "Rheinland-Pfalz",
+      "population": 4106485,
+      "cases": 1553214,
+      "deaths": 6213,
+      "casesPerWeek": 30006,
+      "deathsPerWeek": 6,
+      "recovered": 1461800,
+      "abbreviation": "RP",
+      "weekIncidence": 730.6979083084439,
+      "casesPer100k": 37823.44267664438,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 255
+      },
+      "hospitalization": {
+        "cases7Days": 506,
+        "incidence7Days": 12.32,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "BW": {
+      "id": 8,
+      "name": "Baden-Württemberg",
+      "population": 11124642,
+      "cases": 4594984,
+      "deaths": 17347,
+      "casesPerWeek": 64633,
+      "deathsPerWeek": 8,
+      "recovered": 4414106,
+      "abbreviation": "BW",
+      "weekIncidence": 580.9894826278455,
+      "casesPer100k": 41304.55613762672,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 633
+      },
+      "hospitalization": {
+        "cases7Days": 797,
+        "incidence7Days": 7.16,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "BY": {
+      "id": 9,
+      "name": "Bayern",
+      "population": 13176989,
+      "cases": 6188130,
+      "deaths": 25923,
+      "casesPerWeek": 108848,
+      "deathsPerWeek": 17,
+      "recovered": 5923034,
+      "abbreviation": "BY",
+      "weekIncidence": 826.0460716784388,
+      "casesPer100k": 46961.63896016002,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 4167
+      },
+      "hospitalization": {
+        "cases7Days": 1918,
+        "incidence7Days": 14.56,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "SL": {
+      "id": 10,
+      "name": "Saarland",
+      "population": 982348,
+      "cases": 429940,
+      "deaths": 1865,
+      "casesPerWeek": 12323,
+      "deathsPerWeek": 1,
+      "recovered": 404188,
+      "abbreviation": "SL",
+      "weekIncidence": 1254.4434355238673,
+      "casesPer100k": 43766.567448602735,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 62
+      },
+      "hospitalization": {
+        "cases7Days": 250,
+        "incidence7Days": 25.45,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "BE": {
+      "id": 11,
+      "name": "Berlin",
+      "population": 3677472,
+      "cases": 1282102,
+      "deaths": 4845,
+      "casesPerWeek": 12975,
+      "deathsPerWeek": 1,
+      "recovered": 1241677,
+      "abbreviation": "BE",
+      "weekIncidence": 352.8238964157987,
+      "casesPer100k": 34863.678091906615,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 282
+      },
+      "hospitalization": {
+        "cases7Days": 230,
+        "incidence7Days": 6.25,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "BB": {
+      "id": 12,
+      "name": "Brandenburg",
+      "population": 2537868,
+      "cases": 976569,
+      "deaths": 5936,
+      "casesPerWeek": 14927,
+      "deathsPerWeek": 4,
+      "recovered": 929553,
+      "abbreviation": "BB",
+      "weekIncidence": 588.1708583740368,
+      "casesPer100k": 38479.89729962315,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 206
+      },
+      "hospitalization": {
+        "cases7Days": 331,
+        "incidence7Days": 13.04,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "MV": {
+      "id": 13,
+      "name": "Mecklenburg-Vorpommern",
+      "population": 1611160,
+      "cases": 620223,
+      "deaths": 2477,
+      "casesPerWeek": 10123,
+      "deathsPerWeek": 1,
+      "recovered": 595852,
+      "abbreviation": "MV",
+      "weekIncidence": 628.3050721219494,
+      "casesPer100k": 38495.431862757265,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 404
+      },
+      "hospitalization": {
+        "cases7Days": 245,
+        "incidence7Days": 15.21,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "SN": {
+      "id": 14,
+      "name": "Sachsen",
+      "population": 4043002,
+      "cases": 1796673,
+      "deaths": 16059,
+      "casesPerWeek": 21278,
+      "deathsPerWeek": 3,
+      "recovered": 1713989,
+      "abbreviation": "SN",
+      "weekIncidence": 526.2920968132096,
+      "casesPer100k": 44439.08264205657,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 309
+      },
+      "hospitalization": {
+        "cases7Days": 454,
+        "incidence7Days": 11.23,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "ST": {
+      "id": 15,
+      "name": "Sachsen-Anhalt",
+      "population": 2169253,
+      "cases": 861343,
+      "deaths": 5733,
+      "casesPerWeek": 12568,
+      "deathsPerWeek": 2,
+      "recovered": 826844,
+      "abbreviation": "ST",
+      "weekIncidence": 579.369949010097,
+      "casesPer100k": 39706.89449317346,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 381
+      },
+      "hospitalization": {
+        "cases7Days": 334,
+        "incidence7Days": 15.4,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    },
+    "TH": {
+      "id": 16,
+      "name": "Thüringen",
+      "population": 2108863,
+      "cases": 817399,
+      "deaths": 7671,
+      "casesPerWeek": 10215,
+      "deathsPerWeek": 5,
+      "recovered": 789014,
+      "abbreviation": "TH",
+      "weekIncidence": 484.38423927964976,
+      "casesPer100k": 38760.17550689637,
+      "delta": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 501
+      },
+      "hospitalization": {
+        "cases7Days": 324,
+        "incidence7Days": 15.36,
+        "date": "2022-10-09T00:00:00.000Z",
+        "lastUpdate": "2022-10-09T03:05:26.000Z"
+      }
+    }
+  },
+  "meta": {
+    "source": "Robert Koch-Institut",
+    "contact": "Marlon Lueckert (m.lueckert@me.com)",
+    "info": "https://github.com/marlon360/rki-covid-api",
+    "lastUpdate": "2022-10-09T00:00:00.000Z",
+    "lastCheckedForUpdate": "2022-10-09T14:17:25.008Z"
+  }
+}

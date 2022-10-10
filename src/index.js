@@ -12,4 +12,25 @@ function getStatesWithAtleast(amount, identifier, data) {
     .map(([state, _]) => state);
 }
 
-module.exports = { getCoronaData, getStatesWithAtleast };
+function getStateWithHighestValue(identifier, data) {
+  return Object.entries(data).reduce(([prevKey, prevValue], [currKey, currValue]) => {
+    if (prevValue[identifier] < currValue[identifier]) {
+      return [currKey, currValue];
+    }
+    return [prevKey, prevValue];
+  })[0];
+}
+
+function getTopFiveStatesWithHighestValue(identifier, data) {
+  return Object.entries(data)
+    .sort((prev, curr) => curr[1][identifier] - prev[1][identifier])
+    .slice(0, 5)
+    .map((elem) => elem[0]);
+}
+
+module.exports = {
+  getCoronaData,
+  getStatesWithAtleast,
+  getStateWithHighestValue,
+  getTopFiveStatesWithHighestValue,
+};
